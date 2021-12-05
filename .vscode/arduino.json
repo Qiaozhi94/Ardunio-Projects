@@ -1,0 +1,8 @@
+{
+    "sketch": "1.2_doublecolorlight\\1.2_doublecolorlight.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "output": "./build",
+    "debugger": "jlink",
+    "intelliSenseGen": "global"
+}
